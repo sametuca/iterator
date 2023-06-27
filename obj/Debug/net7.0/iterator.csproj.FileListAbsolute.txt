@@ -1,0 +1,15 @@
+C:\Users\Samet UCA\Desktop\vscode\iterator\bin\Debug\net7.0\iterator.exe
+C:\Users\Samet UCA\Desktop\vscode\iterator\bin\Debug\net7.0\iterator.deps.json
+C:\Users\Samet UCA\Desktop\vscode\iterator\bin\Debug\net7.0\iterator.runtimeconfig.json
+C:\Users\Samet UCA\Desktop\vscode\iterator\bin\Debug\net7.0\iterator.dll
+C:\Users\Samet UCA\Desktop\vscode\iterator\bin\Debug\net7.0\iterator.pdb
+C:\Users\Samet UCA\Desktop\vscode\iterator\obj\Debug\net7.0\iterator.csproj.AssemblyReference.cache
+C:\Users\Samet UCA\Desktop\vscode\iterator\obj\Debug\net7.0\iterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samet UCA\Desktop\vscode\iterator\obj\Debug\net7.0\iterator.AssemblyInfoInputs.cache
+C:\Users\Samet UCA\Desktop\vscode\iterator\obj\Debug\net7.0\iterator.AssemblyInfo.cs
+C:\Users\Samet UCA\Desktop\vscode\iterator\obj\Debug\net7.0\iterator.csproj.CoreCompileInputs.cache
+C:\Users\Samet UCA\Desktop\vscode\iterator\obj\Debug\net7.0\iterator.dll
+C:\Users\Samet UCA\Desktop\vscode\iterator\obj\Debug\net7.0\refint\iterator.dll
+C:\Users\Samet UCA\Desktop\vscode\iterator\obj\Debug\net7.0\iterator.pdb
+C:\Users\Samet UCA\Desktop\vscode\iterator\obj\Debug\net7.0\iterator.genruntimeconfig.cache
+C:\Users\Samet UCA\Desktop\vscode\iterator\obj\Debug\net7.0\ref\iterator.dll
